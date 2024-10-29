@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\DICD\bin\Debug\net8.0\DICD.exe
+C:\Users\Admin\source\repos\Test\DICD\bin\Debug\net8.0\DICD.deps.json
+C:\Users\Admin\source\repos\Test\DICD\bin\Debug\net8.0\DICD.runtimeconfig.json
+C:\Users\Admin\source\repos\Test\DICD\bin\Debug\net8.0\DICD.dll
+C:\Users\Admin\source\repos\Test\DICD\bin\Debug\net8.0\DICD.pdb
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.dll
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\refint\DICD.dll
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.pdb
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\DICD.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test\DICD\obj\Debug\net8.0\ref\DICD.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\SW&SRD\bin\Debug\net8.0\SW&SRD.exe
+C:\Users\Admin\source\repos\Test\SW&SRD\bin\Debug\net8.0\SW&SRD.deps.json
+C:\Users\Admin\source\repos\Test\SW&SRD\bin\Debug\net8.0\SW&SRD.runtimeconfig.json
+C:\Users\Admin\source\repos\Test\SW&SRD\bin\Debug\net8.0\SW&SRD.dll
+C:\Users\Admin\source\repos\Test\SW&SRD\bin\Debug\net8.0\SW&SRD.pdb
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.dll
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\refint\SW&SRD.dll
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.pdb
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\SW&SRD.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test\SW&SRD\obj\Debug\net8.0\ref\SW&SRD.dll

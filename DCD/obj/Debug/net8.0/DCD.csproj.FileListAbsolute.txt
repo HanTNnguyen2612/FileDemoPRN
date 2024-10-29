@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\DCD\bin\Debug\net8.0\DCD.exe
+C:\Users\Admin\source\repos\Test\DCD\bin\Debug\net8.0\DCD.deps.json
+C:\Users\Admin\source\repos\Test\DCD\bin\Debug\net8.0\DCD.runtimeconfig.json
+C:\Users\Admin\source\repos\Test\DCD\bin\Debug\net8.0\DCD.dll
+C:\Users\Admin\source\repos\Test\DCD\bin\Debug\net8.0\DCD.pdb
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.dll
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\refint\DCD.dll
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.pdb
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\DCD.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test\DCD\obj\Debug\net8.0\ref\DCD.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\BWBR\bin\Debug\net8.0\BWBR.exe
+C:\Users\Admin\source\repos\Test\BWBR\bin\Debug\net8.0\BWBR.deps.json
+C:\Users\Admin\source\repos\Test\BWBR\bin\Debug\net8.0\BWBR.runtimeconfig.json
+C:\Users\Admin\source\repos\Test\BWBR\bin\Debug\net8.0\BWBR.dll
+C:\Users\Admin\source\repos\Test\BWBR\bin\Debug\net8.0\BWBR.pdb
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.dll
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\refint\BWBR.dll
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.pdb
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\BWBR.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test\BWBR\obj\Debug\net8.0\ref\BWBR.dll

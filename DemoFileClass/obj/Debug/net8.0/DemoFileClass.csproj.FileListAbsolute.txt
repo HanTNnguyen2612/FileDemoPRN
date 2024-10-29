@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Test\DemoFileClass\bin\Debug\net8.0\DemoFileClass.exe
+C:\Users\Admin\source\repos\Test\DemoFileClass\bin\Debug\net8.0\DemoFileClass.deps.json
+C:\Users\Admin\source\repos\Test\DemoFileClass\bin\Debug\net8.0\DemoFileClass.runtimeconfig.json
+C:\Users\Admin\source\repos\Test\DemoFileClass\bin\Debug\net8.0\DemoFileClass.dll
+C:\Users\Admin\source\repos\Test\DemoFileClass\bin\Debug\net8.0\DemoFileClass.pdb
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.dll
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\refint\DemoFileClass.dll
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.pdb
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\DemoFileClass.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Test\DemoFileClass\obj\Debug\net8.0\ref\DemoFileClass.dll
